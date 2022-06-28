@@ -1,0 +1,19 @@
+https://github.com/home-assistant/core
+- Open Source home assistant application, connects with Internet of Things devices such as Google Homes and Amazon Alexas and include more versatility to those devices.
+I own plenty of home assistant devices, all have their unique capabilities but being able to use one software to fix the shortcomings of some of the home assistants seems like a major improvement to me.
+
+https://github.com/still-scene/t3
+-Open Source motion graphics tool, seems very useful, free, and can be a good alternative for the Adobe Suite and other motion graphic software.
+I like to dabble in video editing and motion graphics from time to time, but I can't afford licenses for adobe at 20-40 dollars a month, so I saw this open source software as a good opportunity for that.
+
+https://github.com/gophish/gophish
+-Open Source Security Bruteforcing software, for businesses to use to test their Cybersecurity systems for any flaws.
+Security is a major component for businesses and software development, if your software can be compromised than thats a major risk, and this software intrigued me as a stress test way for companies to test their security systems.
+
+https://github.com/RasaHQ/rasa
+-Open Source Text to Speech and modular vocal software, for use with chatbots and virtual assistants.
+Improving Text to Speech to have a more regular flow has always intrigued me, and using this along side the previous opensource home assistant software to improve them and make them more natural in tone.
+
+https://github.com/howdyai/botkit
+- Open Source ai framework, useful for websites that use customer support chatbots and virtual assistants.
+Same as above, improving virtual assistants to be more natural and less frustrating to use.
